@@ -1,5 +1,5 @@
 # Contador de Veiculos
- 
+ Aplicação para contar veiculos utilizando Yolo e OpenCv em Python
 ## Instalação
 #### Clonar o repositório
     $ git clone https://github.com/niveanfj/Contador-de-Veiculos
@@ -14,3 +14,4 @@
 <p align="center">
    <img src="https://github.com/niveanfj/Contador-de-Veiculos/blob/main/Resultado1.png" width="500">
  </p>
+ O quadrado em cinza corresponde a área de interesse e o preto a detecção do veiculo.
