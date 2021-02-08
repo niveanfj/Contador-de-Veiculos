@@ -8,7 +8,7 @@ cont_car = 0
 cont_motorcycle = 0
 cont = False
 
-video = cv2.VideoCapture('video.mp4')
+video = cv2.VideoCapture('videoeditado.mp4')
 
 # Video de Saida
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
@@ -77,8 +77,8 @@ while True:
     cv2.putText(frame, txt1, (10, 30), cv2.FONT_HERSHEY_COMPLEX, 0.8, (0, 0, 0), 2)
 
     if ret is True:
-        cv2. rectangle(frame, (690, 500), (880, 630), (128, 128, 128), 2)
-        roi = frame[500:630, 690:880]
+        cv2. rectangle(frame, (680, 500), (880, 610), (128, 128, 128), 2)
+        roi = frame[500:610, 680:880]
         (H, W) = roi.shape[:2]
 
         imagem_cp = roi.copy()
