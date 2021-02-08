@@ -11,5 +11,6 @@
 ## Execução
     python3 main.py
 #### Resultado
-   https://youtu.be/EGQEM8ScWCE
-   
+<p align="center">
+   <img src="https://github.com/niveanfj/Contador-de-Veiculos/blob/main/Resultado1.png" width="500">
+ </p>
