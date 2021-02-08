@@ -6,5 +6,7 @@
 #### Instalação das dependencias
     cd Contador-de-Veiculos
     pip3 install -r requirements.txt
+    wget https://pjreddie.com/media/files/yolov3.weights
+    wget https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg
 ## Execução
     main.py
