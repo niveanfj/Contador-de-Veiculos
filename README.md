@@ -11,7 +11,5 @@
 ## Execução
     python3 main.py
 #### Resultado
-O quadrado cinza representa a área de interesse e o preto acompanha o veículo detectado.
-
-   ![alt text](https://github.com/niveanfj/Contador-de-Veiculos/blob/main/Resultado.png)
+    https://youtu.be/EGQEM8ScWCE
    
