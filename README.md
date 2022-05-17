@@ -1,5 +1,5 @@
-# Contador de Veiculos
- Aplicação para detecção e contagem de veículos em vídeo. 
+<h1 align="center">  Contador de Veiculos </h1>
+<h5 align="center"> Aplicação para detecção e contagem de veículos em vídeo. </h5>
  
 ## ⚙ Linguagens e Ferramentas
 Python, Yolo e OpenCv
